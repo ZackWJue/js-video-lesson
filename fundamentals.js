@@ -9,9 +9,21 @@ functions
 
 
 */
- 
+
 
 /* brandon jumping in and starting me on conditionals*/
+
+/*
+
+SPACES MATTER
+
+control s
+git status
+git add .
+git commit -m "message"
+git push
+
+*/
 
 const answer = "penis";
 
